@@ -66,10 +66,40 @@ live Demo: https://baghchalgame.vercel.app
 
 ---
 
-## Certifications
+## Certifications & Digital Badges
 
-- Microsoft AI Skills Fest 2026 
+- Microsoft AI Skills Fest 2026
+<p align="left">
+  <a href="https://www.credly.com/badges/53718e8e-f303-41d9-8ea8-0216bff390c2/public_url">
+    <img
+      src="assets/badges/ai-skills-fest-2026.png"
+      width="160"
+      alt="Microsoft AI Skills Fest 2026 Badge"
+    />
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.credly.com/badges/53718e8e-f303-41d9-8ea8-0216bff390c2/public_url">
+    🔗 Verify Credential
+  </a>
+</p>
+
 - Deloitte Australia Cyber Job Simulation (Forage)
+<p align="left">
+  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_6a24e222d20e0b6c78f7d00e_1780809489947_completion_certificate.pdf">
+    <img
+      src="assets/certifications/Screenshot 2026-06-07 114118.png"
+      width="160"
+      alt="Deloitte Australia Cyber Job Simulation (Forage)"
+    />
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_6a24e222d20e0b6c78f7d00e_1780809489947_completion_certificate.pdf">
+    🔗 Verify Credential
+  </a>
+</p>
+
 - Mastercard Cybersecurity Job Simulation (Forage)
 - Generative AI for Web Developers
 
