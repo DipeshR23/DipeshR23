@@ -56,17 +56,19 @@ I'm a Bachelor of Information Technology (BIT) student from Itahari, Nepal, with
 
 **BaghChal: Nepal's Traditional Strategy Game**
 
-A modern implementation of Nepal's traditional strategy game, built with React, TypeScript, Vite, and Tailwind CSS. The project combines cultural heritage with modern web technologies while helping me strengthen my frontend development and problem-solving skills.
+A modern implementation of Nepal's traditional strategy game. The project combines cultural heritage with modern web technologies while helping me strengthen my frontend development and problem-solving skills.
 
 Repo (Source Code): [github.com/DipeshR23/baghchal_game](https://github.com/DipeshR23/baghchal_game)
 
 live Demo: https://baghchalgame.vercel.app
 
+**Built with:** React • TypeScript • Vite • Tailwind CSS • Vercel
+
 ---
 
 ## Certifications
 
-- Microsoft AI Skills Fest 2026
+- Microsoft AI Skills Fest 2026 
 - Deloitte Australia Cyber Job Simulation (Forage)
 - Mastercard Cybersecurity Job Simulation (Forage)
 - Generative AI for Web Developers
