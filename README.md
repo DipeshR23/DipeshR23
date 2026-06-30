@@ -101,7 +101,21 @@ live Demo: https://baghchalgame.vercel.app
 </p>
 
 - Mastercard Cybersecurity Job Simulation (Forage)
-- Generative AI for Web Developers
+<p align="left">
+  <a href="https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_6a24e222d20e0b6c78f7d00e_1780888851345_completion_certificate.pdf">
+    <img
+      src="assets/certifications/mastercard_certificate1_page-0001.jpg"
+      width="160"
+      alt="Mastercard Cybersecurity Job Simulation (Forage)"
+    />
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_6a24e222d20e0b6c78f7d00e_1780888851345_completion_certificate.pdf">
+    🔗 Verify Credential
+  </a>
+</p>
+
 
 ---
 
