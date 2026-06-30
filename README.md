@@ -119,11 +119,20 @@ live Demo: https://baghchalgame.vercel.app
 
 ---
 
-## GitHub Stats
+## <img src="https://img.icons8.com/fluency-systems-filled/20/58A6FF/combo-chart.png"/> GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=DipeshR23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=DipeshR23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshR23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <img
+    height="200"
+    src="https://streak-stats.demolab.com?user=DipeshR23&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshR23&bg_color=0d1117&color=FFFFFF&line=58A6FF&point=58A6FF&area=true&hide_border=true"
+  />
+</p>
 
 ---
 
