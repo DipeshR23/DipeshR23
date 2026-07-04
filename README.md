@@ -118,19 +118,18 @@ live Demo: https://baghchalgame.vercel.app
 
 
 ---
-
 ## <img src="https://img.icons8.com/fluency-systems-filled/20/58A6FF/combo-chart.png"/> GitHub Activity
 
 <p align="left">
   <img
     height="200"
-    src="https://streak-stats.demolab.com?user=DipeshR23&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=DipeshR23&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
   />
 </p>
 
 <p align="left">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshR23&bg_color=0d1117&color=FFFFFF&line=58A6FF&point=58A6FF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DipeshR23&theme=github-dark&hide_border=true&area=true"
   />
 </p>
 
