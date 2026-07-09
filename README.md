@@ -2,6 +2,11 @@
 ### BIT Student | Networking & Cloud Computing Learner | Cybersecurity Enthusiast | CCNA Aspirant
 
 I'm a Bachelor of Information Technology (BIT) student from Itahari, Nepal, with a strong interest in networking, cloud computing, and cybersecurity.<br><br>I'm currently building my foundation through the CCNA learning path while exploring network infrastructure, cloud platforms, Linux systems, and information security. My long-term goal is to work in Network Engineering, Cloud Operations, and Cybersecurity.<br><br>Alongside that, I build modern web applications using React and TypeScript. These projects help me strengthen my problem-solving skills and understand how software and infrastructure work together. I believe in learning by doing, contributing to open communities, and improving through practical experience, certifications, and real-world projects.
+
+<p align="center">
+    <img src="assets/gif/gifrun.gif" style="width: 1050px; height: 60px; object-fit: cover;" alt="GIF 2">
+</p>
+
 <p align="center">
     <img src="assets/gif/Stunning-label.png" style="width: 500px; height: 450px; object-fit: cover;" alt="GIF 2">
   <img src="assets/gif/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" style="width: 1050px; height: 400px; object-fit: cover;" alt="GIF 1">
